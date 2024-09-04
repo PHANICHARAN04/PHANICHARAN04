@@ -1,20 +1,16 @@
 <h1 align="center">Hi 👋, I'm U V Phani Charan</h1>
 <h3 align="center">A passionate Full-Stack Developer</h3>
 
-<table align="center">
-  <tr>
-    <td>
-      • 🔭 I’m currently working on [HordeTalk (An Idea Sharing Social Media Platform using MERN Stack to share innovative ideas)](https://github.com/PHANICHARAN04/HordeTalk) <br>
-      • 🌱 I’m currently improving my skills in **Spring Boot, Express JS, AWS Services** <br>
-      • 👨‍💻 All of my details are also available at [https://phanicharan.live/](https://phanicharan.live/) <br>
-      • 💬 Ask me about **MERN Stack, Spring Boot** <br>
-      • 📫 How to reach me **phanicharan116@gmail.com**
-    </td>
-    <td>
-      <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300" height="210" >
-    </td>
-  </tr>
-</table>
+- 🔭 I’m currently working on [HordeTalk (An Idea Sharing Social Media Platform using MERN Stack to share innovative ideas)](https://github.com/PHANICHARAN04/HordeTalk)
+
+- 🌱 I’m currently improving my skills in **Spring Boot, Express JS, AWS Services**
+
+- 👨‍💻 All of my details are also available at [https://phanicharan.live/](https://phanicharan.live/)
+
+- 💬 Ask me about **MERN Stack, Spring Boot**
+
+- 📫 How to reach me **phanicharan116@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/phanicharan04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="phanicharan04" height="30" width="40" /></a>
