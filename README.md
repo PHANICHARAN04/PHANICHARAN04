@@ -4,14 +4,14 @@
 <table align="center">
   <tr>
     <td>
-      - 🔭 I’m currently working on [HordeTalk (An Idea Sharing Social Media Platform using MERN Stack to share innovative ideas)](https://github.com/PHANICHARAN04/HordeTalk) <br>
-      - 🌱 I’m currently improving my skills in **Spring Boot, Express JS, AWS Services** <br>
-      - 👨‍💻 All of my details are also available at [https://phanicharan.live/](https://phanicharan.live/) <br>
-      - 💬 Ask me about **MERN Stack, Spring Boot** <br>
-      - 📫 How to reach me **phanicharan116@gmail.com**
+      • 🔭 I’m currently working on [HordeTalk (An Idea Sharing Social Media Platform using MERN Stack to share innovative ideas)](https://github.com/PHANICHARAN04/HordeTalk) <br>
+      • 🌱 I’m currently improving my skills in **Spring Boot, Express JS, AWS Services** <br>
+      • 👨‍💻 All of my details are also available at [https://phanicharan.live/](https://phanicharan.live/) <br>
+      • 💬 Ask me about **MERN Stack, Spring Boot** <br>
+      • 📫 How to reach me **phanicharan116@gmail.com**
     </td>
     <td>
-      <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
+      <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300" height="210" >
     </td>
   </tr>
 </table>
